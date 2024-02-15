@@ -1,0 +1,14 @@
+link: HOME-ABOUT-CHEFS-MENU-GALLERY-CONTACTS
+
+HEADLINE2: RESTFOOD
+headline4: RESTAURANT
+
+HEADLINE1: BEST QUALITY FOOD
+
+PARAGRAPHE: Lorem ipsum,dolor sit amet consectetur adipisicing elit.
+Molestias provident labrum,recusandae delectus corrupti error destinctio eligendi qui
+consequuntur officia.
+
+BUTTON: BOOK TABLE 
+
+ICONES: CAMERA 
